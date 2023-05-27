@@ -8,6 +8,8 @@ versão 1.0
 ## Game Over
 ![game](./images/MarioGameOver.png)
 
+Play on: [Mario Jump](https://alanmarinho.github.io/MiniGame_Mario-Jump/)
+
 ---
 
 ## Planos para a próxima versão
