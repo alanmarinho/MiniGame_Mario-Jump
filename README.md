@@ -16,6 +16,7 @@ Play on: [Mario Jump](https://alanmarinho.github.io/MiniGame_Mario-Jump/)
 * Adicionar pontuação do jogador
 * Adicionar recorde de pontuação
 * Adicionar mais nuvens
+* Adicionar comandos para jogar em mobile
 --- 
 
 
